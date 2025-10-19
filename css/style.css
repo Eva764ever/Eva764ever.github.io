@@ -1,9 +1,14 @@
 .align {
 	text-align: center;
 }
-.mesi{
-	text-align: center;
+.xroma{
+	background-color: #ebe834;
 }
-.hero-section{
-	height: 50vh;
+.istoria{
+	background-color: #6fa8dc;
+}
+.second-row{
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
